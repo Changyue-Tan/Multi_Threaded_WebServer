@@ -1,2 +1,2 @@
-# Muti_Threaded_WebServer
+# Multi_Threaded_WebServer
 Muti-threaded webserver built in C
